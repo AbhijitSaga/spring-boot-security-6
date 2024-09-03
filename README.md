@@ -1,0 +1,1 @@
+Step 1: Create a user using the POST API (localhost:8080/auth/signup). This API can be accessed without authentication, as configured in the securityFilterChain(HttpSecurity http) method of the SecurityConfiguration class.
